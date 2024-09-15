@@ -47,6 +47,7 @@ This app showcases the integration of various Flutter plugins, including **Flutt
 
 ## Demo Video
 -  Demonstrates the use of SVG images in the app.
+  
   https://github.com/user-attachments/assets/15445181-9ea1-471a-ae73-22056e44b5ef
 
 
